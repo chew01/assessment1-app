@@ -2,6 +2,8 @@
 
 A simple Single Page Application (SPA) made with React, Typescript, Vite for GovTech's Intern assessment.
 
+![img.png](docs/img.png)
+
 ## Project Setup
 
 ### Prerequisites

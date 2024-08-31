@@ -1,6 +1,6 @@
-# GovTech Assignment 1 App
+# GovTech Assessment 1 App
 
-A simple Single Page Application (SPA) made with React, Typescript, Vite for GovTech's Intern assignment.
+A simple Single Page Application (SPA) made with React, Typescript, Vite for GovTech's Intern assessment.
 
 ## Project Setup
 
